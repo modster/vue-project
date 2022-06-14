@@ -4,7 +4,7 @@
 
 <script>
 import { ref, onMounted } from "@vue/runtime-core";
-import { createScene } from "../scenes/MyFirstScene";
+import { createScene } from "../scenes/MyFirstScene.js";
 
 export default {
     name: "BabylonScene",
